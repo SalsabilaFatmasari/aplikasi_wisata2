@@ -1,16 +1,1 @@
-# aplikasi_wisata
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="219" alt="Salsabila Screenshoot wbsite" src="https://user-images.githubusercontent.com/113401277/198836303-9def75a2-d44e-439d-9089-0b8f326a10bb.png">
