@@ -65,6 +65,10 @@ flutter:
     - images/p.jpg
     - images/s.jpg
     - images/o.jpg
+    - images/masjid.jpg
+    - images/putri.jpeg
+    - images/alun.jpg
+    - images/godong.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
