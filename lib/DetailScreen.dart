@@ -16,7 +16,7 @@ class DetailScreen extends StatelessWidget {
             children: <Widget>[
               Stack(
                 children: <Widget>[
-                  Image.asset(place.imageAsset),
+                  Image.asset(place.imageAsset, fit: BoxFit.fill,),
                   SafeArea(
                     child: Padding(
                       padding: const EdgeInsets.all(8.0),

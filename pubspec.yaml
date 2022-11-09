@@ -62,13 +62,49 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - images/d.jpg
+    - 'images/da1.jpg'
+    - 'images/da2.jpg'
+    - 'images/da3.jpg'
     - images/p.jpg
     - images/s.jpg
     - images/o.jpg
     - images/masjid.jpg
+    - images/masjid1.jpg
+    - images/masjid2.jpg
+    - images/masjid3.jpg
     - images/putri.jpeg
     - images/alun.jpg
+    - images/alun1.jpg
+    - images/alun2.jpg
+    - images/alun3.jpg
     - images/godong.jpg
+    - images/tvri.jpg
+    - images/tvri1.jpg
+    - images/tvri2.jpg
+    - images/tvri3.jpg
+    - images/keramik.jpg
+    - images/kf1.jpg
+    - images/kf2.jpg
+    - images/kf3.jpg
+    - images/kww.jpg
+    - images/wiladatika.jpg
+    - images/w1.jpg
+    - images/w2.jpg
+    - images/w3.jpg
+    - images/99.jpg
+    - images/991.jpg
+    - images/992.jpg
+    - images/994.avif
+    - images/995.jpg
+    - images/996.jpg
+    - images/9993.jpg
+    - images/duyung.jpg
+    - images/duyung1.jpg
+    - images/duyung2.jpg
+    - images/ww.jpg
+    - images/ww1.jpg
+    - images/ww2.png
+    - images/ww3.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

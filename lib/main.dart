@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Tempat Wisata Semarang',
+      title: 'Tempat Wisata Kota Depok',
       // home: Scaffold(
       //   appBar: AppBar(
       //     title: const Text('Welcome'),
